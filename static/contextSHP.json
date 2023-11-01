@@ -8,6 +8,7 @@
 "hadMember": "http://www.w3.org/ns/prov#hadMember",
  "shp_Variable": "https://w3id.org/shp#Variable", 
  "shp_SensitiveVariable": "https://w3id.org/shp#SensitiveVariable",
+"shp_VariableConstraint":"https://w3id.org/shp#VariableConstraint" 
  "shp_EntityCharacteristic": "https://w3id.org/shp#EntityCharacteristic", 
  "shp_rowCount": "https://w3id.org/shp#rowCount",  
  "shp_maxValue": "https://w3id.org/shp#maxValue",  
